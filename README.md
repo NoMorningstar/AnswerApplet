@@ -30,7 +30,7 @@
 
 
 ## 欢迎体验并提出你宝贵的建议
-![gh_87fd9d30b3e1_430](E:\bowserdownload\gh_87fd9d30b3e1_430.jpg)
+![gh_87fd9d30b3e1_430](https://github.com/NoMorningstar/AnswerApplet/blob/master/pic/gh_87fd9d30b3e1_430.jpg)
 
 ## 参考文档
 - [ColorUI](https://github.com/weilanwl/ColorUI)
