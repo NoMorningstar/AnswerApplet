@@ -12,19 +12,19 @@
 
 ​    5.同步云函数库。用微信开发者工具打开代码，可以看到如下的目录。
 
-![image-20211111164136235](https://github.com/NoMorningstar/AnswerApplet/pi/image-20211111164136235.png)
+![image-20211111164136235](https://github.com/NoMorningstar/AnswerApplet/blob/master/pic/image-20211111164136235.png)
 
 ​    鼠标选中cloudfunctions目录，右键，选择同步云函数。
 
 ​     同步成功之后，云开发控制台中的云函数列表，则有如下几个函数。
 
-![image-20211111164037691](E:\系统默认\桌面\移动互联开发\pic\image-20211111164037691.png)
+![image-20211111164037691](https://github.com/NoMorningstar/AnswerApplet/blob/master/pic/image-20211111164037691.png)
 
 ​     6.导入题目数据。
 
 点击云开发控制台中的数据库，接着创建集合：question、questionstatus、userInfo、feedback 、questionBank集合，选择导入按钮，在questionBank导入题目文件。
 
-![image-20211111164312375](E:\系统默认\桌面\移动互联开发\pic\image-20211111164312375.png)
+![image-20211111164312375](https://github.com/NoMorningstar/AnswerApplet/blob/master/pic/image-20211111164312375.png)
 
 
 
