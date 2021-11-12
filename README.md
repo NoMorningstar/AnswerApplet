@@ -12,7 +12,7 @@
 
 ​    5.同步云函数库。用微信开发者工具打开代码，可以看到如下的目录。
 
-![image-20211111164136235](E:\系统默认\桌面\移动互联开发\pic\image-20211111164136235.png)
+![image-20211111164136235](https://github.com/NoMorningstar/AnswerApplet/pi/image-20211111164136235.png)
 
 ​    鼠标选中cloudfunctions目录，右键，选择同步云函数。
 
