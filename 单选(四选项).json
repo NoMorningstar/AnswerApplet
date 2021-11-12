@@ -1,0 +1,1492 @@
+{
+  "_id": "SC",
+  "question": [
+    {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"短路",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"电火花",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"负荷过载",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"以上都是",
+      "value": "D"
+      }
+      ],
+      "title":"引起电器线路火灾的原因是：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"10",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"20",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"30",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"50",
+      "value": "D"
+      }
+      ],
+      "title":"在遇到高压电线断落地面时，导线断落点多少米内，禁止人员进入。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"湿手操作",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"切断电源",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"站在金属登子或梯子上",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"戴上手套",
+      "value": "D"
+      }
+      ],
+      "title":"进行照明设施的接电操作，应采取的防触电措施为：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"打电话报警",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"切断电源",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"扑灭明火",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"求援",
+      "value": "D"
+      }
+      ],
+      "title":"万一发生电气火灾，首先应该采取的第一条措施是：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"100W左右",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"200W左右",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"500W左右",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"800W以上",
+      "value": "D"
+      }
+      ],
+      "title":"实验室、宿舍禁止使用电热水壶、热得快。一般电热水壶的功率为：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"电流流过人体",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"电压",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"电场",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"磁场",
+      "value": "D"
+      }
+      ],
+      "title":"造成触电事故的因素是：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"吸潮漏电",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"空气开关跳闸",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"触电伤害",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"以上都是",
+      "value": "D"
+      }
+      ],
+      "title":"电线插座损坏时，既不美观也不方便工作，并造成：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"03米",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"02米",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"01米",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"05米",
+      "value": "D"
+      }
+      ],
+      "title":"车间内的插座距地面的高度一般不低于多少米?",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"单手碰到带电体",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"人体碰到带电设备",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"双手碰到两相电线（此时人体作为负载，已触电）",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"人体碰到漏电机壳",
+      "value": "D"
+      }
+      ],
+      "title":"漏电保护器下例哪种情况不起作用？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"纵火罪",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"失火罪",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"玩忽职守罪",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"重大责任事故罪",
+      "value": "D"
+      }
+      ],
+      "title":"由于行为人的过失引起火灾，造成严重后果，危害公共安全的行为，构成：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"扔桌子上",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"扔地上",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"交给老师",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"扔垃圾桶",
+      "value": "D"
+      }
+      ],
+      "title":"随手使用的手纸、饮料瓶等垃圾应该如何处理？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"手",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"毛刷",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"棉丝",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"吹气",
+      "value": "D"
+      }
+      ],
+      "title":"在铣削中清理切屑时，应使用:",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"可燃易燃性、可传染性、放射性物质、有毒物质的使用和存放",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"清除污染和废弃物处置情况",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"规章制度的建立和执行情况",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"以上都是",
+      "value": "D"
+      }
+      ],
+      "title":"实验室安全检查的重点是：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"停机并报告相关负责人员",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"关机走人",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"继续使用，注意观察",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"停机自行维修",
+      "value": "D"
+      }
+      ],
+      "title":"在使用设备时，如果发现设备工作异常，怎么办？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"设备的不安全状态和人的不安全行为",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"不良的工作环境",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"劳动组织管理的缺陷",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"以上都是",
+      "value": "D"
+      }
+      ],
+      "title":"诱发安全事故的原因是：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"电器起火",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"可燃气体起火",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"有机溶剂起火",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"以上都是",
+      "value": "D"
+      }
+      ],
+      "title":"干粉灭火器适用于：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"反应速度极快，通常在万分之一秒以内即可完成",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"释放出大量的热",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"产生大量的气体",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"以上都是",
+      "value": "D"
+      }
+      ],
+      "title":"爆炸物品在发生爆炸时的特点有：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"跳楼",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"到窗口或阳台挥动物品求救、用床单或绳子拴在室内牢固处下到下一层逃生",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"躲到床下，等待救援",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"打开门，冲出去",
+      "value": "D"
+      }
+      ],
+      "title":"被火困在室内，如何逃生？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"乘坐电梯",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用湿毛巾捂住口鼻低姿从安全通道撤离",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"跳楼逃生",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"跑到楼顶呼救",
+      "value": "D"
+      }
+      ],
+      "title":"在火灾初发阶段，应采取哪种方法撤离？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"40%",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"60%",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"80%",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"95%",
+      "value": "D"
+      }
+      ],
+      "title":"火灾发生时，湿毛巾折叠8层为宜，其烟雾浓度消除率可达：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"二氧化碳灭火器",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"干粉灭火器",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"泡沫灭火器",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"灭火砂",
+      "value": "D"
+      }
+      ],
+      "title":"扑灭电器火灾不宜使用下列何种灭火器材？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"就地打滚或用水冲",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"奔跑",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"大声呼救",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"边跑边脱衣服",
+      "value": "D"
+      }
+      ],
+      "title":"身上着火，最好的做法是：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"自由开启",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"向外开启",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"向内开启",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"关闭，需要时可自行开启",
+      "value": "D"
+      }
+      ],
+      "title":"实验大楼安全出口的疏散门应：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"上部",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"中部",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"根部",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"中上部",
+      "value": "D"
+      }
+      ],
+      "title":"使用灭火器扑救火灾时要准火焰的什么部位喷射。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"反应速度极快，通常在万分之一秒以内即可完成",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"释放出大量的热",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"产生大量的气体",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"以上都是",
+      "value": "D"
+      }
+      ],
+      "title":"爆炸物品在发生爆炸时的特点有：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"就地打滚",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用厚重衣物覆盖压灭火苗",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"迎风快跑",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"大量水冲或跳入水中",
+      "value": "D"
+      }
+      ],
+      "title":"身上着火后，下列哪种灭火方法是错误的？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"就地打滚",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用厚重衣物覆盖压灭火苗",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"迎风快跑",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"大量水冲或跳入水中",
+      "value": "D"
+      }
+      ],
+      "title":"身上着火后，下列哪种灭火方法是错误的？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"砂子",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"水",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"二氧化碳灭火器",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"干粉灭火器",
+      "value": "D"
+      }
+      ],
+      "title":"窒息灭火法是将氧气浓度降低至最低限度，以防止火势继续扩大。其主要工具是：(  )",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"防止形成爆炸性混合物的化学品泄漏",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"控制可燃物形成爆炸性混合物",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"消除火源、安装检测和报警装置",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"以上都是",
+      "value": "D"
+      }
+      ],
+      "title":"下列选项中属于防爆的措施有：(  )",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"混合物的温度、压力",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"混合物的多少",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"混合物的含氧量",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"容器的大小",
+      "value": "D"
+      }
+      ],
+      "title":"下列哪项不是影响混合物爆炸极限的因素?",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"自由开启",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"向外开启",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"向内开启",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"关闭，需要时可自行开启",
+      "value": "D"
+      }
+      ],
+      "title":"实验大楼安全出口的疏散门应：(  )",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"二氧化碳灭火器",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"干粉灭火器",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"泡沫灭火器",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"灭火砂",
+      "value": "D"
+      }
+      ],
+      "title":"扑灭电器火灾不宜使用下列何种灭火器材？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"热传导",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"热对流",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"热辐射",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"以上都是",
+      "value": "D"
+      }
+      ],
+      "title":"火灾蔓延的途径是:(  )",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"40%",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"60%",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"80%",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"95%",
+      "value": "D"
+      }
+      ],
+      "title":"火灾发生时，湿毛巾折叠8层为宜，其烟雾浓度消除率可达：(  )",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"纵火罪",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"失火罪",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"玩忽职守罪",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"重大责任事故罪",
+      "value": "D"
+      }
+      ],
+      "title":"由于行为人的过失引起火灾，造成严重后果，危害公共安全的行为，构成：(  )",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"短路",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"电火花",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"负荷过载",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"以上都是",
+      "value": "D"
+      }
+      ],
+      "title":"引起电器线路火灾的原因是：(  )",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"二氧化碳灭火器",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"四氯化碳灭火器",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"干粉灭火器",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"干砂",
+      "value": "D"
+      }
+      ],
+      "title":"化工原料电石或乙炔着火时，严禁用(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"半年",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"一年",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"二年",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"三年",
+      "value": "D"
+      }
+      ],
+      "title":"灭火器的检查周期是(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"88℃",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"76℃",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"66℃",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"50℃",
+      "value": "D"
+      }
+      ],
+      "title":"一般的易燃物质的闪点低于多少摄氏度？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"二氧化碳灭火器",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"干粉灭火器",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"泡沫灭火器",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"灭火砂",
+      "value": "D"
+      }
+      ],
+      "title":"扑灭电器火灾不宜使用下列哪种灭火器材？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"200～300℃",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"400～500℃",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"700～800℃",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"900～1000℃",
+      "value": "D"
+      }
+      ],
+      "title":"烟头的中心温度大概是多少度？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"纵火罪",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"失火罪",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"玩忽职守罪",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"重大责任事故罪",
+      "value": "D"
+      }
+      ],
+      "title":"由于行为人的过失引起火灾，造成严重后果的行为，构成(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"个体防护",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"隔离",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"避难",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"救援",
+      "value": "D"
+      }
+      ],
+      "title":"下列(  )方法是保护人身安全的最后一道防线。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"触电的方式",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"人体电阻的大小",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"触电电压的高低",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"能否尽快脱离电源和施行紧急救护",
+      "value": "D"
+      }
+      ],
+      "title":"被电击的人能否获救，关键在于(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"分级响应",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"统一指挥",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"公众动员机制",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"以人为本",
+      "value": "D"
+      }
+      ],
+      "title":"(  )是应急机制的基础，也是整个应急体系的基础。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"安全第一",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"第一反应",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"以人为本",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"第二反应",
+      "value": "D"
+      }
+      ],
+      "title":"属地为主强调(  )思想和以现场应急、现场指挥为主的原则。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"属地为主",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"公众动员",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"法制基础",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"分级响应",
+      "value": "D"
+      }
+      ],
+      "title":"一个完整的应急体系应由组织体制、运作机制、(  )机制和应急保障系统构成。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"参演人员",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"模拟人员",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"评价人员",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"观摩人员",
+      "value": "D"
+      }
+      ],
+      "title":"建立应急演练策划小组（或领导小组）是成功组织开展应急演练工作的关键，为了确保演练的成功，(  )人不得参与策划小组，更不能参与演练方案的设计。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"基础培训与训练",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"专业训练",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"战术训练",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"其他训练",
+      "value": "D"
+      }
+      ],
+      "title":"熟练掌握个人防护装备和通讯装备的使用，属于应急训练的(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "D",
+      "options": [
+      {
+      "checked": false,
+      "name":"只包含①",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"包含①、②",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"包含①、③",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"包含①、②、③",
+      "value": "D"
+      }
+      ],
+      "title":"应急预案是整个应急管理体系的反映，它的内容包括①事故发生过程中的应急响应和救援措施②事故发生前的各种应急准备③事故发生后的紧急恢复以及预案的管理与更新。以下那一个描述是正确的？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"应急救援专家组",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"消防与抢险",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"医疗救治",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"洗消去污组织",
+      "value": "D"
+      }
+      ],
+      "title":"在重大事故应急救援体系中，(  )部门的重要职责是尽可能、尽快地控制并消除事故，营救受害人员。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"应急救援中心",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"应急救援专家组",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"消防与抢险",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"信息发布中心",
+      "value": "D"
+      }
+      ],
+      "title":"(  )应急机构是整个应急救援系统的重心，主要负责协调事故应急救援期间各个机构的运作，统筹安排整个应急救援行动，为现场应急救援提供各种信息支持等。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"预防",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"准备",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"响应",
+      "value": "C"
+      },
+      {
+      "checked": false,
+      "name":"恢复",
+      "value": "D"
+      }
+      ],
+      "title":"在应急管理中，(  )阶段的目标是尽可能地抢救受害人员、保护可能受威胁的人群，并尽可能控制并消除事故。",
+      "url":"",
+      "help":""
+      }
+      
+      
+  ]
+  
+}

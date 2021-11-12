@@ -1,0 +1,6327 @@
+{
+  "_id": "SC",
+  "question": [
+    {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电源插座、接线板、电线的容量应满足电器功率的需要。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"为避免线路负荷过大，而引起火灾，功率1000瓦以上的设备不得共用一个接线板。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"于触电事故，应立即切断电源或用有绝缘性能的木棍棒挑开和隔绝电流，如果触电者的衣服干燥，又没有紧缠住身上，可以用一只手抓住他的衣服，拉离带电体；但救护人不得接触触电者的皮肤，也不能抓他的鞋。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内应使用空气开关并配备必要的漏电保护器；电气设备应配备足够的用电功率和电线，不得超负荷用电；电气设备和大型仪器须接地良好，电线老化等隐患要定期检查并及时排除。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"大型仪器使用中，应注意仪器设备的接地、电磁辐射、网络等安全事项，避免事故发生。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内的电线、开关、灯头、插头、插座等一切电器用具，要经常检查是否完好，有无漏电、潮湿、霉烂等情况。一旦有问题应立即报修。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"可以用潮湿的手碰开关、电线和电器。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"当手、脚或身体沾湿或站在潮湿的地板上时，切勿启动电源开关和触摸电气用具。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在实验室同时使用多种电气设备时，其总用电量和分线用电量均应小于设计容量。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"不使用绝缘损坏或接地不良的电气设备。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"负载处于工作状态时，可以插、拔、接电气线路。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"接线时，要用合格的电源线，电源插头、插座。电源线接头要用绝缘胶布包好。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"可以用湿布擦电源开关。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"进行电气维修必须先关掉电源，在设置告知牌后，方可进行。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室的电源总闸没有必要每天离开时都关闭，只要关闭常用电气的电源即可。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电源插座附近不应堆放易燃物等杂物。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"移动某些非固定安装的电气设备时(如电风扇，照明灯)，可以不必切断电源。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"任何电气设备在未验明无电时，一律认为有电，不能盲目触及。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"当断线落地或大电流从接地装置流入大地时，若人站在附近则可能在两脚之间产生跨步电压。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"使用电气设备时可以用两眼插头代替三眼插头。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"人体触电致死，是由于肝脏受到严重伤害。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在遇到高压电线断落地面时，导线断落点内，禁止人员进入。如果不慎在此范围内，应背朝电线断落点，采用单脚跳或双脚并跳，撤离现场。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"计算机使用完毕后，应将显示器的电源关闭，以避免电源接通，产生瞬间的冲击电流。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"触电事故是因电流流过人体而造成的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"为了预防电击（触电），电气设备的金属外壳须接地，最好是埋设接地电阻很小专用地线。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"为保证安全用电，配电箱内所用的保险丝应该尽量粗。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在照明电路上可以不用安装漏电保护器。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验结束后，应该打扫卫生、整理或运走废弃的试样或物品。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室应保持整洁有序，不准喧哗、打闹、抽烟。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"学生进入实验室学习、工作前应接受安全教育、培训，并通过考核。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验结束后，要关闭设备，断开电源，并将有关实验用品整理好。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"从事特种作业（如电工、焊工、辐射、病原微生物等）的人员，必须接受相关的专业培训，通过考核并持有相应的资质证书才能上岗。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内可以使用电炉、微波炉、电磁炉、电饭煲等取暖、做饭。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内禁止抽烟、进食。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"发现被盗或人为破坏，应保护现场并立即报告生产实训中心及后勤集团保卫科。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室发生非火灾类事故，应立即报告单位负责人和学校后勤集团保卫科，设立警戒区并撤离无关人员，以减轻潜在危害。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"学生进入实验室首先要了解实验室的安全注意事项。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"未经允许不得随意拆卸实验仪器和设备。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验进行前要了解实验仪器的使用说明及注意事项，实验过程中要严格按照操作规程进行操作。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验仪器使用时要有人在场，不得擅自离开。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"离开实验室前应检查门、窗、水龙头是否关好，通风设备、饮水设施、计算机、空调等是否已切断电源。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在不影响实验室周围的走廊通行的情况，可以堆放仪器等杂物。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"只要不影响实验，可以在实验室洁净区域铺床睡觉。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"为了防止盗窃事件的发生，临时离开实验室必须关门。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室不得乱拉电线，套接接线板。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内可以使用木制配电板、闸刀开关、花线电线。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室应将相应的规章制度和操作规程挂到墙上或便于取阅的地方。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室门口应挂上写有安全责任人的姓名和联系方式的牌子。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"遇到停电停水等情况，实验室人员必须检查电源和水源是否关闭，避免重新来电来水时发生相关安全事故。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室人员必须定期检查设备、水电线路、门窗等是否完好，如发现问题，必须及时进行维修。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"不得堵塞实验室逃生通道。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室钥匙的配发由实验室负责人管理，不得私自配置钥匙或借给他人使用。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内电源根据需要可自行拆装、改线。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"除非特殊需要并采取一定的安全保护措施，否则空调、计算机、饮水机等不得无人开机过夜。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"不得带着实验防护手套开门、翻阅书籍、使用电脑。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"仪器设备发生故障后，必须及时报告管理人员，并详细登记。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"与工作无关的外来人员不得进入实验室。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内彼此保持安静，不得进行娱乐活动。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"建立健全安全管理规章制度，完善逐级安全责任制，贯彻执行“谁使用，谁管理”、“谁主管，谁负责”的安全工作原则。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室必须妥善保管消防器材和防盗装置，并定期检查。消防器材不得移作它用，周围禁止堆放杂物。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"废弃的利器(包括针头、小刀、金属和玻璃等)应直接弃置于耐扎容器内。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室地面出现溢水的主要原因之一是忘记关闭水龙头，尤其停水时忘关水龙头，因此离开实验室时要认真检查。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"夏季天气热时可以在实验室内穿露有脚趾的鞋。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"未经指导教师许可，不得搬弄仪器、设备，以及擅自开始实验。实验时，应注意安全，按要求操作，如发现异常立即停止。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在开放实验室，外来人员可随便操作实验室仪器设备。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室安全与卫生工作应坚持“安全第一，预防为主”的原则。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"铸造实习期间不准穿凉鞋、拖鞋，不准穿短裤，女生不准穿裙子。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室应仪器设备加强维护保养，定期校验和检修。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"因实验需要，仪器设备可以随便拆装。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电气设备和大型仪器须接地良好，电线老化等隐患要定期检查并及时排除。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"某人因机械操作不慎，致使左手食指从指根完全离断，急救处理首先是找器皿保存断指，然后包扎残端伤口止血。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实施急救的顺序：若有呼吸心跳停止的，先行复苏，然后是止血、包扎、骨折固定或脱臼复位（固定）、搬运。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"火或热水等引起的小面积烧伤、烫伤，必须用冷水冲洗30分钟以上，然后用烧伤膏涂抹，切不可用牙膏、酱油、盐等覆盖。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"火或热水等引起的大面积烧伤、烫伤，必须用湿毛巾、湿布、湿棉被覆盖，然后送医院进行处理。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"触电时，不可人去拉（可用木棒把伤员挑开），应立即切断电源，然后先做人工呼吸，再做心脏按压，同时报120送医院进行处理。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"突发性不可抗拒的雷电、水灾、地震、房屋垮塌等自然灾害事故发生后，应在领导小组的指挥下，马上组织疏散、抢救现场工作人员或进行人员自助自救，以确保人员的人身安全，作好善后工作。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验中遇到一般割伤，应立即取出伤口内的异物，保持伤口干净，并用酒精棉清除伤口周围的污物，涂上外伤膏或消炎粉。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验中遇到严重割伤，可在伤口上部处用沙布扎紧，减慢流血，并立即送医院。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验中遇到一般烫伤和烧伤，不要弄破水泡，在伤口处用95%的酒精轻涂伤口，涂上烫伤膏或涂一层凡士林油，再用纱布包扎。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室人员发生触电时，应迅速切断电源，将触电者上衣解开，取出口中异物，然后进性人工呼吸。当患者恢复呼吸时，应立即送医院。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"当有人发生触电事故时，应马上直接将其拉开。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"发现有人触电，应立即切断电源，不能直接拉触电者，应用木棒或其它绝缘物将人与带电体分离。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"雷电发生时，如果作业人员孤立处于暴露区时，应该立即双手抱膝下蹲，向前弯曲。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在触电现场，若触电者已经没有呼吸或脉搏，此时可以判定触电者已经死亡，可以放弃抢救。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"触电紧急救护时，首先应使触电者脱离电源，然后立即进行人工呼吸、心脏按压。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"安全事故处理应本着先人后物的原则，果断地、坚决地快速处置。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验过程中如发生事故，应冷静妥善地处理，尽量把事故解决在萌芽状态。如较为严重，有危及人身安全可能时，应及时撤离现场，并通知邻近实验室工作人员迅速撤离，尽快报警。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"做实验时要爱护实验设备，同时注意自身的安全，避免发生事故。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"学生、新员工进实验室之前要参加安全教育和培训，经培训、考核合格后方可进入实验室学习与工作；学生要在老师指导下开展实验研究。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"要保持实验室环境整洁，做到地面、桌面、设备三整洁，减少安全隐患。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室安全工作的中心任务是防止发生人员伤亡、财产和科研资料损失。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"高校实验室发生安全事故的主要原因有：操作不慎、粗心大意、设施老化、缺少防护设施等。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室发生火警、火灾时，应立即采取措施灭火，并报保卫处或119。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"发现实验室楼的配电箱起火，可以用楼内的消火栓放水灭火。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"二氧化碳灭火器使用不当，可能会造成冻伤。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在附近无水源，身上着火来不及脱衣服时，应就地打滚，将火苗压灭进行自救。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"消防队在扑救火灾时，有权根据灭火的需要，拆除或者破损临近火灾现场的建筑。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"液体着火时，应用灭火器灭火，不能用水扑救或其它物品扑打。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"使用手提灭火器时，拨掉保险销，准着火点根部用力压下压把，灭火剂喷出，就可灭火。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"若被火场浓烟所困，应迅速起身跑出火场。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室应配备相应的消防器材。参加实验人员要熟悉其存放位置及使用方法并掌握有关的灭火知识。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室必须配备符合本室要求的消防器材，消防器材要放置在明显或便于拿取的位置。严禁任何人以任何借口把消防器材移作它用。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"当发生火情时尽快沿着疏散指示标志和安全出口方向迅速离开火场。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"大火封门无路可逃时，可用浸湿的被褥、衣物堵塞门缝，向门上泼水降温，以延缓火灾蔓延时间，呼叫待援。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室一旦发生起火，不要惊慌失措，应利用消防器材，采取有效措施控制、扑灭火灾。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"火灾发生后，千万不要盲目跳楼，可利用疏散楼梯、阳台、窗口等逃生自救。也可用绳子或把床单、被套等撕成条状连成绳索，紧拴在窗框、铁栏杆等可靠的固定物上，用毛巾、布条等保护手心，顺绳滑下，或下到未着火的楼层进行逃生。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"火灾发生后，穿过浓烟逃生时，必须尽量贴近地面，并用湿毛巾捂住口鼻。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"火灾发生后，受到火势威胁时，要当机立断披上浸湿的衣物、被褥等向安全出口方向冲去。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"火灾发生后，当所有的逃生线路被大火封锁时，应立即退回室内，用手电筒、挥舞衣物、呼叫等方式向窗外发送求救信号，等待救援。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电气设备发生火灾时，应注意：1、电气设备可能带电，可能发生触电事故；2、某些电气设备充有大量的油，可能发生喷油甚至爆炸。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在室外灭火时，应站在上风位置。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验大楼因出现火情发生浓烟时应迅速离开，当浓烟已穿入实验室内时，要沿地面匍匐前进，因地面层新鲜空气较多，不易中毒而窒息，有利于逃生。当逃到门口时，千万不要站立开门，以避免被大量浓烟熏倒。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内出现火情逃到室外走廊时，要尽量做到随手关门，这样一来可阻挡火势随人运动而迅速蔓延，增加逃生的有效时间。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验大楼出现火情时千万不要乘电梯，因为电梯可能因停电或失控，同时又因“烟囱效应”，电梯井常常成为浓烟的流通道。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内出现火情，若被困在室内时，应迅速打开水龙头，将所有可盛水的容器装满水，并把毛巾打湿。用湿毛巾捂嘴，可以遮住部分浓烟不被吸入。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室灭火的方法要针起因选用合适的方法。一般小火可用湿布、石棉布或沙子覆盖燃烧物即可灭火。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电气线路着火，要先切断电源，再用干粉灭火器或二氧化碳灭火器灭火，不可直接泼水灭火，以防触电或电气爆炸伤人。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电气设备着火时，可以用水扑灭。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"一般的实验室只要干净、卫生情况良好，就可以饲养动物或进行动物实验。 ",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"教师应学习研究有关实验室安全的知识，同时在理论教学和实验中对学生进行安全知识教育、教会学生如何正确使用实验设备和实验操作，教会学生在突发事故发生时如何自我保护、相互救援、安全撤离。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"早晨、中饭、晚上等几个人员稀少的时间段，要特别注意随手关门，确保实验室财产和个人物品的安全。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"及时淘汰老化、性能不稳又具有安全隐患的仪器设备",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在使用微波炉时，可以使用金属容器以及空载。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验时，禁止用口吸方式移液。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"正在进行实验时，可带着防护手套接听电话。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"要保持实验室环境整洁，做到地面、桌面、设备三整洁，减少安全隐患。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"做实验时要爱护实验设备，同时注意自身的安全，避免发生事故。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"安全事故处理应本着先人后物的原则，果断地、坚决地快速处置。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在清洁、维修仪器时，应先断电并确保无人能开启仪器。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"身边没有胶水胶棒时可以用口舔标签用以粘贴。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"用手搬运重物时，应先以半蹲姿势，抓牢重物，然后用腿肌出力站起，切勿弯腰，以防伤及背部和腰。 ",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"因实验需要，仪器设备可以随便拆装。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室应对仪器设备加强维护保养，定期校验和检修。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"使用电子门禁的大楼和实验室，应对各类人员设置相应的级别，对于门禁卡丢失、人员调动或离校等情况应及时采取措施，办理报失或移交手续。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电炉、烘箱等用电设备在使用中，使用人员不得离开。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"红外灯、紫外灯不得安装在木柜或纸箱中使用。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在开放实验室，外来人员可随便操作实验室仪器设备。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"未经指导教师许可，不得搬弄仪器、设备，以及擅自开始实验。实验时，应注意安全，按要求操作，如发现异常立即停止。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"离开实验室时，实验服不得穿着外出，必须脱下并留在实验室内，更不能携带回家。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"夏季天气热时可以在实验室内穿露有脚趾的鞋。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"液体和固体实验废弃物不需分开放置。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室如发现存在安全隐患，要及时向所在学院和实验室负责人报告，并采取措施进行整改。对安全隐患隐瞒不报或拖延上报的，学校将对相关责任人进行严肃处理。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"建立健全安全管理规章制度，完善逐级安全责任制，贯彻执行“谁使用，谁管理”、“谁主管，谁负责”的安全工作原则。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"烘箱、微波炉、电磁炉、饮水加热器、灭菌锅等高热能电器设备的放置地点应远离易燃、易爆物品。同时，规范操作，避免饮水加热器、灭菌锅等无水干烧。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内彼此保持安静，不得进行娱乐活动。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"与工作无关的外来人员不得进入实验室。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室冰箱内不得混放容易产生放热反应的化学品。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"仪器设备发生故障后，必须及时报告管理人员，并详细登记。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"不得带着实验防护手套开门、翻阅书籍、使用电脑。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"除非特殊需要并采取一定的安全保护措施，否则空调、计算机、饮水机等不得无人开机过夜。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室钥匙的配发由实验室负责人管理，不得私自配置钥匙或借给他人使用。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"不得堵塞实验室逃生通道。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"普通实验室内，不得私自饲养实验动物。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室人员必须定期检查设备、水电线路、门窗等是否完好，如发现问题，必须及时进行维修。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室门口应挂上写有安全责任人的姓名和联系方式的牌子。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室应将相应的规章制度和操作规程挂到墙上或便于取阅的地方。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在使用高压灭菌锅、烤箱等高压加热设备时，必须有人值守。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内不得停放自行车、电动车、汽车。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"只要不影响实验，可以在实验室洁净区域铺床睡觉。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在不影响实验室周围的走廊通行的情况，可以堆放仪器等杂物。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"离开实验室前应检查门、窗、水龙头是否关好，通风设备、饮水设施、计算机、空调等是否已切断电源。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验仪器使用时要有人在场，不得擅自离开。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验进行前要了解实验仪器的使用说明及注意事项，实验过程中要严格按照操作规程进行操作。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"未经允许不得随意拆卸实验仪器和设备。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"发现被盗或人为破坏，应保护现场并立即报告保卫处。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"可以在粉尘操作区饮食及吸烟。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内可以堆放个人物品。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"从事特种作业（如电工、焊工、辐射、病原微生物等）的人员，必须接受相关的专业培训，通过考核并持有相应的资质证书才能上岗。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验结束后，要关闭设备，断开电源，并将有关实验用品整理好。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室应保持整洁有序，不准喧哗、打闹、抽烟。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验结束后，应该打扫卫生、整理或运走废弃的试样或物品。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"消毒剂经常用于无生命的物体或物体表面。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"初次进入实验室的操作人员应了解实验室具体的潜在危险，认真阅读、理解安全手册和操作手册。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"对已污染的仪器、器械、台面等要做标签说明，不得有掩盖。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"取用有毒、有恶臭味的试剂时，要在通风橱中操作；使用完毕后，将瓶塞蜡封，或用生料带将瓶口封严。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"眼睛溅入化学试剂时，应以大量清水冲洗，并翻开上下眼皮继续缓缓冲洗数分钟后，速送医院诊治。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室的药品和设备一定要标明其名称，以免误用。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验中，进行高温操作时，必须佩戴防高温手套。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验过程中应仔细观察实验现象并及时做好实验记录，原始记录要完整、真实、准确、清楚。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"凡进行有危险性的实验，应先检查防护措施，确证防护妥当后，才可进行实验。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室安全事故的表现形式主要有：火灾；爆炸；毒害、机电伤人和设备损坏。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"高校实验室发生安全事故的主要原因有：操作不慎、设备老化、自然灾害、网络攻击和监管不力。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室安全工作的中心任务是防止发生人员伤亡和财产损失。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"离开实验室前检查实验室门、窗是否关好，电气线路、通风设备、饮水设施等是否已切断电源。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"要经常保持实验室环境的整洁卫生，做到地面、桌面、设备三清洁。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在实验室工作的人员务必遵守学校及实验室的各项规章制度和仪器设备的操作规程；做好安全防护。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"学生、新工作人员进实验室之前要参加安全教育和培训，经院系、实验室培训、考核合格后方可进入实验室工作；学生要在导师指导下开展实验研究。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验仪器使用时要有人在场，不得擅自离开。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"做实验时要爱护实验设备，同时注意自身的安全，避免发生事故。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验进行前要了解实验仪器的使用说明及注意事项，实验过程中要严格按照操作规程进行操作。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"未经允许不得随意拆卸实验仪器及零部件。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"学生进入实验室首先要了解实验室的安全注意事项。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验过程中如发生意外或事故，应冷静妥善地处理，尽量把事故解决在萌芽状态。如事故较为严重，有危及人身安全可能时，应及时撤离现场，并通知邻近实验室工作人员迅速撤离，并尽快报警。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"化学废液要回收并集中存放，不可随意倒入下水道。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"发现被盗或人为破坏，应保护现场并立即报告保卫处。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"损坏了仪器、设备必须立即向教师报告。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在实验室进行有潜在危险工作时，必须有第二者陪伴。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"应避免独自一人在实验室做有危险的实验。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内可以使用电炉等取暖、做饭。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"用水时要禁止跑、冒、滴、漏现象存在。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内不许存放易燃、易爆物品，但可以堆放个人物品。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"节假日或假期做实验必须经管理部门批准。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验结束后，要关闭设备，断开电源，并将有关实验用品整理好。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"学生进入实验室学习、工作前应接受安全教育或培训，并通过考核。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室工作必须保持严肃、严密、严格、严谨；室内保持整洁有序，不准喧哗、打闹、抽烟。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"采取有毒、有腐蚀性、有刺激性的样品，必须戴防毒面具，置换气体应注意排至室外，防止中毒。进容器内取样，应有人监护。取样时，人应站在下风向侧面。取样后，应将阀门关严。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验结束，离开实验室时要检查水、电和门窗，确保安全。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在实验室不可佩带隐形眼镜，应使用一般眼镜。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"回收不便时可以将实验室废弃物掩埋处理。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内电源根据需要可自行拆装、改线。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"发现有人触电，应立即切断电源，不能直接拉触电者，应用木棒或其它绝缘物将人与带电体分离。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"当有人发生触电事故时，应马上直接将其拉开。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室人员发生触电时，应迅速切断电源，将触电者上衣解开，取出口中异物，然后进性人工呼吸。当患者恢复呼吸时，应立即送医院。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电气设备和大型仪器须接地良好，对电线老化等隐患要定期检查并及时排除。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"空调电源必须单独拉线，不得使用接线板。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在照明电路上可以不用安装漏电保护器。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"为保证安全用电，配电箱内所用的保险丝应该尽量粗。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"为了预防电击（触电），电气设备的金属外壳须接地，最好是埋设接地电阻很小专用地线。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"触电事故是因电流流过人体而造成的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"计算机使用完毕后，应将显示器的电源关闭，以避免电源接通，产生瞬间的冲击电流。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在遇到高压电线断落地面时，导线断落点20米内，禁止人员进入。如果不慎在此范围内，应背朝电线断落点，采用单脚跳或双脚并跳，撤离现场。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"一定强度的电场，磁场，电磁场都可能对人有损害。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"人体触电致死，是由于肝脏受到严重伤害。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"使用电气设备时可以用两眼插头代替三眼插头。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"当断线落地或大电流从接地装置流入大地时，若人站在附近则可能在两脚之间产生跨步电压。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"任何电气设备在未验明无电时，一律认为有电，不能盲目触及。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"移动某些非固定安装的电气设备时（如电风扇，照明灯），可以不必切断电源。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室的电源总闸没有必要每天离开时都关闭，只要关闭常用电气的电源即可。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"进行电气维修必须先关掉电源,在设置告知牌后，方可进行。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"可以用湿布擦电源开关。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"接线时，要用合格的电源线，电源插头、插座。电源线接头要用绝缘胶布包好。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"不使用绝缘损坏或接地不良的电气设备。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在实验室同时使用多种电气设备时，其总用电量和分线用电量均应小于设计容量。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"当手、脚或身体沾湿或站在潮湿的地板上时，切勿启动电源开关和触摸电气用具。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内应使用空气开关并配备必要的漏电保护器；电气设备应配备足够的用电功率和电线，不得超负荷用电；电气设备和大型仪器须接地良好，对电线老化等隐患要定期检查并及时排除。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"对于触电事故，应立即切断电源或用有绝缘性能的木棍棒挑开和隔绝电流，如果触电者的衣服干燥，又没有紧缠住身上，可以用一只手抓住他的衣服，拉离带电体；但救护人不得接触触电者的皮肤，也不能抓他的鞋。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"为避免线路负荷过大，而引起火灾，功率1000瓦以上的设备不得共用一个接线板。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"所有操作或接触放射性核素的实验室人员应接受放射性基础知识、相关技术和放射性防护的指导和培训。实行持证上岗，并佩戴个人专用的辐射剂量计。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"短路会使短路处甚至整个电路过热，从而导致线路的绝缘层燃烧，引发火灾。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"静电可以引起爆炸、电气绝缘和电子元器件击穿。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"人体触电，双手触电致死比单手触电致死的概率要大得多。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电路谐振时，电容的电压可以是电源电压的几倍。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"万用表电阻档可测量绝缘电阻。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"毫安的工频电流就可以使人遭到致命电击。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"高压实验中的安全距离：10kV是0.7m；66kV是1.5m；220kV是3m。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"用电安全的基本要素有：电气绝缘良好、保证安全距离、线路与插座容量与设备功率相适宜、不使用三无产品。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"重复接地是指零线上的一处或多处通过接地装置与大地再连接，可提高线路的安全性。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在进行电子线路板焊接后的剪脚工序时，剪脚面应背离身体特别是脸部，防止被剪下引脚弹伤。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在有爆炸和火灾危险场所使用手持式或移动式电动工具时，必须采用有防爆措施的电动工具。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"身边有人严重触电，应当首先切断电源，然后进行紧急抢救如人工呼吸，并立即拨打急救电话120。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在使用手电钻、电砂轮等手持电动工具时，为保证安全，应该装设漏电保护器。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"金属材料可以很好地屏蔽低频磁场。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"保险丝和空气开关可以有效地防止电气火灾。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"漏电保护器对两相触电（人体双手触及两相电源），不起保护作用。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"为了防止触电可采用绝缘、防护、隔离等技术措施以保障安全。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在电气类开放性实验或科研实验室，必须二人以上方可开展实验。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"连接在接线板上的用电总负荷不能超过接线板的最大容量。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电动工具应定期检修。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在易燃、易爆、易灼烧及有静电发生的场所，可以使用化纤防护用品。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在充满可燃气体的环境中，可以使用手动电动工具。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"只要接线板质量符合要求，就可以随意串联很多个，不影响使用。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室禁止私拉乱接电线，实验过程中自制非标设备时，应报请实验室管理人员批准，然后请电气专业人员按照标准安全的连接。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电磁式电流互感器在使用中付边不许开路，电压互感器在使用中付边不许短路。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"接电路元器件时，主要应关注元器件的耐压和能承受的功率。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电动工具的电源引线必须保证接地可靠。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"打开含有高压变压器或电容器的电子仪器的盖子是危险的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"连接电气设备的开关需安装在火线上。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在潮湿或高温或有导电灰尘的场所，实验时应该降低电压供电。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"使用钳形电流表时，应注意钳形电流表的量程。测量时戴绝缘手套，站在绝缘垫上，不得触及其它设备，以防短路或接地。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"布线时，强、弱电可以合用同一电缆管线。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电分强电和弱电，弱电开关等元件不能用在强电电路。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"各种电源是否有电，可用试电笔检验。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"交、直流回路可以合用一条电缆。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"短路是指电气线路中相线与相线，相线与零线或大地，在未通过负载或电阻很小的情况下相碰，造成电气回路中电流大量增加的现象。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"凡在潮湿工作场所或在金属容器内使用手提式电动用具或照明灯时，安全电压应采用12V。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"动力配电箱的闸刀开关可以带负荷拉开。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"消除管线上的静电主要是做好屏蔽。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在一经合闸即可送电到工作地点的开关和刀闸的操作把手上，均应悬挂“禁止合闸，有人工作”的标示牌。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"做试验时，关合刀闸应当尽量慢以保护设备。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电流对人体的伤害有两种类型：即电击和电伤。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"静电有三大特点：一是电压高；二是静电感应突出；三是尖端放电现象严重。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"对容易产生静电的场所，要保持地面潮湿，或者铺设导电性能好的地面；工作人员要穿防静电的衣服和鞋靴，静电及时导入大地，防止静电积聚，产生火花。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"漏电保护器既可用来保护人身安全，还可用来对低压系统或设备的绝缘状况起到监督作用；漏电保护器安装点以后的线路应是对地绝缘的，线路应是对地绝缘良好。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电击 (触电) 通常指因为人体接触带电的供电线路或设备而受到伤害的事故。为了避免电击 (触电) 事故的发生，采取的有效措施是：设备可靠接地而人体对地绝缘。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"地线和零线的作用相同。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"任何电气设备在未验明无电时，一律认为有电，不能盲目触及。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"雷电发生时，如果作业人员孤立处于暴露区并感到头发竖起时，应该立即双膝下蹲，向前弯曲，双手抱膝。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在距离线路或变压器较近，有可能误攀登的建筑物上，必须挂有“禁止攀登，有电危险”的标示牌。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"安装在有爆炸危险场所的灯具应该是防爆型的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"燃烧必须具备可燃物、助燃物和点火源三大条件，缺一不可。因此，可以采取尽量隔离的方式来防止实验室火灾的发生。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电气设备着火时，可以用水扑灭。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"电气线路着火，要先切断电源，再用干粉灭火器或二氧化碳灭火器灭火，不可直接泼水灭火，以防触电或电气爆炸伤人。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室灭火的方法要针对起因选用合适的方法。一般小火可用湿布、石棉布或沙子覆盖燃烧物即可灭火。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内出现火情，若被困在室内时，应迅速打开水龙头，将所有可盛水的容器装满水，并把毛巾打湿。用湿毛巾捂嘴，可以遮住部分浓烟不被吸入。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验大楼出现火情时千万不要乘电梯，因为电梯可能因停电或失控，同时又因“烟囱效应”，电梯井常常成为浓烟的流通道。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室内出现火情逃到室外走廊时，要尽量做到随手关门，这样一来可阻挡火势随人运动而迅速蔓延，增加逃生的有效时间。 ",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验大楼因出现火情发生浓烟时应迅速离开，当浓烟已穿入实验室内时，要沿地面匍匐前进，因地面层新鲜空气较多，不易中毒而窒息，有利于逃生。当逃到门口时，千万不要站立开门，以避免被大量浓烟熏倒。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室常用的灭火方法：用水灭火、砂土灭火、灭火器。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"火灾对实验室构成的威胁最为严重，最为直接。应加强对火灾三要素（易燃物、助燃物、点火源）的控制。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"消防安全制度主要包括以下内容：消防安全教育、培训；防火巡查、检查；安全疏散设施管理；消防设施、器材维护管理；火灾隐患整改；用火、用电安全管理；灭火和应急疏散预案演练；消防安全工作考评和奖惩等。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"灭火的四种方法是隔离法、窒息法、冷却法、化学抑制法。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在室外灭火时，应站在上风位置。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在熟睡时，听到火警信号后正确的做法是：1、用手试一试门是否热，如是冷的，可开门逃生；2、准备好湿毛巾；3、切勿随意跳楼，自制救生绳索后再设法安全着落；4、利用自然条件作为救生滑道。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"灭火器按其移动形式可分为：手提式和推车式。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"水具有导电性，不宜扑救带电设备的火灾，不能扑救遇水燃烧物质或非水溶性燃烧液体的火灾。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"冷却灭火法是将可燃物冷却到其燃点以下，停止燃烧反应。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"隔离灭火法是将可燃物与引火源或氧气隔离开来，可防止火势继续扩大。 ",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"火灾发生后，当所有的逃生线路被大火封锁时，应立即退回室内，用手电筒、挥舞衣物、呼叫等方式向窗外发送求救信号，等待救援。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"火灾发生后，受到火势威胁时，要当机立断披上浸湿的衣物、被褥等向安全出口方向冲去。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"火灾发生后，穿过浓烟逃生时，必须尽量贴近地面，并用湿毛巾捂住口鼻。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"扑救气体火灾切忌盲目扑灭火势，首先应切断火势蔓延途径，然后疏散火势中压力容器或受到火焰辐射热威胁的压力容器，不能疏散的部署水枪进行冷却保护。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"如果可燃液体在容器内燃烧时，应从容器的一侧上部向容器中喷射但注意不能将喷流直接喷射在燃烧液面上，防止灭火剂的冲力将可燃液体冲出容器而扩大火势。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"当可燃烧液体呈流淌状燃烧时，应将灭火剂的喷流对准火焰根部由近而远并左右扫射，向前快速推进，直至火焰扑灭。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室一旦发生起火，不要惊慌失措，应利用消防器材，采取有效措施控制、扑灭火灾。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"爆炸是指物质瞬间突然发生物理或化学变化，同时释放出大量的气体和能量（光能、热能、机械能）并伴有巨大声响的现象。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室必须配备符合本室要求的消防器材，消防器材要放置在明显或便于拿取的位置。严禁任何人以任何借口把消防器材移作它用。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室应配备相应的消防器材。参加实验人员要熟悉其存放位置及使用方法并掌握有关的灭火知识。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"消防工作的方针是：“预防为主，防消结合”，实行消防安全责任制。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"液体着火时，应用灭火器灭火，不能用水扑救或其它物品扑打。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"消防队在扑救火灾时，有权根据灭火的需要，拆除或者破损临近火灾现场的建筑。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"二氧化碳灭火器使用不当，可能会造成冻伤。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"发现实验室楼的配电箱起火，可以用楼内的消火栓放水灭火。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室发生火警、火灾时，应立即采取措施灭火，并报保卫处或119。 ",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"有“严禁烟火”警示牌的大楼和实验室，可不必配置必要的消防、冲淋、洗眼、报警和逃生设施和有明显标志。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室必须妥善保管消防器材和防盗装置，并定期检查。消防器材不得移作它用，周围禁止堆放杂物。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"有易燃易爆危险品的实验室禁止使用明火。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"不能将实验室易燃易爆物品带出实验室。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室发生非火灾类事故，应立即报告单位负责人和学校保卫处，设立警戒区并撤离无关人员，以减轻潜在危害。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"化学类实验室原则上不得使用明火电炉。确须使用明火电炉进行实验的，须向保卫部门申报，经审核批准备案后，方可使用。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在火灾或者日常生活中，如被烧、烫伤最有效的应急方法是用冷水浸泡或冰块冷敷等紧急散热措施。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"建筑物发生火灾时，乘坐电梯疏散即快速又安全省力。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"全国消防宣传日是每年的11月9日。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"燃点越低的物品越安全。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"同学发现宿舍楼的电闸箱起火，可以用楼内的消火栓灭火。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"安装在有爆炸危险场所的灯具应该是防爆型的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"当发生火情时尽快沿着疏散指示标志和安全出口方向迅速离开火场。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室必须配备符合本室要求的消防器材，消防器材要放置在明显或便于拿取的位置。严禁任何人以任何借口把消防器材移作它用。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"实验室应配备相应的消防器材。参加实验人员要熟悉其存放位置及使用方法并掌握有关的灭火知识。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"一般有机物着火时可以用水扑救，因为有机物与水可以互溶。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"若被火场浓烟所困，应迅速起身跑出火场。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"消防工作的方针是：“预防为主，防消结合”，实行消防安全责任制。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"扑救液体火灾时，应用灭火器扑救，不能用水扑救或其它物品扑打。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"己身上着火时，应就地打滚，进行自救。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"房的电闸箱起火，可以用楼内的消火栓灭火。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"着火，首先必须采取的措施是灭火。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"门无路可逃时，可用浸湿的被褥、衣物堵塞门缝，向门上泼水降温，以延缓火灾漫延时间，呼叫待援。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"在扑救火灾时，有权根据灭火的需要，拆除或者破损临近火灾现场的建筑。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"提灭火器时，拔掉保险销，握住胶管前端，对准燃烧物根部用力压下压把，灭火剂喷出，就可灭火",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"正确",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"错误",
+      "value": "B"
+      }
+      ],
+      "title":"扑救毒害性、腐蚀性或燃烧产物毒害性较强的火灾时，必须配戴防护面具。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"打开燃气灶查找漏气部位",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"打开门窗通风",
+      "value": "B"
+      }
+      ],
+      "title":"当打开房门闻到燃气气味时，要迅速(  )，以防引起火灾。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"乘坐电梯",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用湿毛巾捂住口鼻低姿从安全通道撤离",
+      "value": "B"
+      }
+      ],
+      "title":"从火灾现场撤离时，应采取哪些方法？",
+      "url":"",
+      "help":""
+      }
+      
+      
+      
+  ]
+  
+}

@@ -1,0 +1,1343 @@
+{
+  "_id": "SC",
+  "question": [
+    {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"吸烟、烹饪、用膳",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"睡觉过夜和进行娱乐活动",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"做与学习、工作有关的事情",
+      "value": "C"
+      }
+      ],
+      "title":"在实验室区域内，可以：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"关闭仪器设备",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"关闭水源、电源、气源",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"关闭计算机",
+      "value": "C"
+      }
+      ],
+      "title":"节假日期间，仍然需要进入实验室工作的师生，要严格遵守实验室操作规程，做实验时必须要有人在场，并且在实验完成离开时负责，锁好门窗，以防火灾和爆炸、溢水等事故。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"应迅速切断电源，将触电者上衣解开，取出口中异物，然后进行人工呼吸",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"应迅速注射兴奋剂",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"当患者伤势严重时，应立即送医院强救",
+      "value": "C"
+      }
+      ],
+      "title":"实验室人员发生触电时，下例哪种行为是不正确的？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"日光灯开关、水槽、通风橱",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"电源总开关、水源总开关",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"通风设备开关、多媒体开关、计算机开关",
+      "value": "C"
+      }
+      ],
+      "title":"师生进入实验室工作，一定要搞清楚等位置，有异常情况，要关闭相应的总开关。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"将贵重仪器设备迅速转移",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"切断现场电源",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"将人员疏散",
+      "value": "C"
+      }
+      ],
+      "title":"实验室仪器设备用电或线路发生故障着火时，应立即，并组织人员用灭火器进行灭火。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"沿地面匍匐前进，当逃到门口时，不要站立开门",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"打开实验室门后不用随手关门",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"从楼上向楼下外逃时可以乘电梯",
+      "value": "C"
+      }
+      ],
+      "title":"实验大楼因出现火情发生浓烟已穿入实验室内时，以下哪种行为是正确的？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"停止加热，移开可燃物，切断电源，用灭火器灭火",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"打开实验室门，尽快疏散、撤离人员",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"用干毛巾覆盖上火源，使火焰熄灭",
+      "value": "C"
+      }
+      ],
+      "title":"如果实验出现火情，要立即：",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"将贵重仪器设备迅速转移",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"切断现场电源",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"将人员疏散",
+      "value": "C"
+      }
+      ],
+      "title":"实验室仪器设备用电或线路发生故障着火时，应立即()，并组织人员用灭火器进行灭火。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"窒息灭火法",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"隔离灭火法",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"冷却灭火法",
+      "value": "C"
+      }
+      ],
+      "title":"采取适当的措施，使燃烧因缺乏或隔绝氧气而熄灭，这种方法称作:(  )",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"警告、罚款或十日以下拘留",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"拘留或劳动教养",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"行政处分",
+      "value": "C"
+      }
+      ],
+      "title":"个人过失引起火灾，尚未造成严重损失的，将被处(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"跳楼或窗口逃生",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"大声呼救",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"用毛巾或衣服捂住口鼻低姿势沿疏散通道逃生",
+      "value": "C"
+      }
+      ],
+      "title":"火场中防止烟气危害最简单的方法是(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"必须",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"禁止",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"可以",
+      "value": "C"
+      }
+      ],
+      "title":"扑救爆炸物品火灾时，(  )用沙土盖压，以防造成更大伤害。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"干粉灭火剂",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"泡沫灭火剂",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"二氧化碳灭火剂",
+      "value": "C"
+      }
+      ],
+      "title":"遇水燃烧物质起火时，不能用(  )扑灭。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"中毒",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"缺氧",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"爆炸",
+      "value": "C"
+      }
+      ],
+      "title":"在狭小地方使用二氧化碳灭火器容易造成(  )事故。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"火",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"烟气",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"可燃物",
+      "value": "C"
+      }
+      ],
+      "title":"火灾中对人员威胁最大的是(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"用四氯化碳或1211灭火器进行灭火",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用沙土灭火",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"用水灭火",
+      "value": "C"
+      }
+      ],
+      "title":"下列灭火方法中，对电器着火不适用的是哪种？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"上风向",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"下风向",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"侧风向",
+      "value": "C"
+      }
+      ],
+      "title":"在室外灭火时应站在什么位置？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"上部",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"中部",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"根部",
+      "value": "C"
+      }
+      ],
+      "title":"使用灭火器扑救火灾时要对准火焰(  )喷射。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"捂盖法、扑灭法、浇水法、隔离法",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"扑灭法、救火法、化学法、泡法",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"隔离法、窒息法、冷却法、化学抑制法",
+      "value": "C"
+      }
+      ],
+      "title":"灭火的四种方法是(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"用灭火器",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用水泼",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"扑打",
+      "value": "C"
+      }
+      ],
+      "title":"扑灭易燃液体火灾时，应采用哪种方法？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"被人践踏",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"窒息",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"烧伤",
+      "value": "C"
+      }
+      ],
+      "title":"火灾使人致命的最主要的原因是(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"清洗伤口后加以包裹",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用布料直接包裹，制止出血",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"用药棉将流出的血液吸去",
+      "value": "C"
+      }
+      ],
+      "title":"因事故导致严重的外部出血时，应采用()的方法。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"带伤者到急救站",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"安慰伤者等待救援人员赶到",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"保持镇静，立即派人通知负责人及急救员",
+      "value": "C"
+      }
+      ],
+      "title":"工作现场发现有人受重伤时，现场人员首先应(  )，临阵不乱。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"佩带胶皮手套",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"使用金属容器来盛装溶剂",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"佩带胶皮手套及用防腐蚀金属容器盛装溶剂",
+      "value": "C"
+      }
+      ],
+      "title":"避免手部皮肤接触有机溶剂，应采取(  )措施。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"10～12次",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"16～18次",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"18～24次",
+      "value": "C"
+      }
+      ],
+      "title":"成人口对口人工呼吸每分钟应为(  )次。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"清洗伤口后加以包裹",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用布料直接包裹，制止出血",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"用药棉将流出的血液吸去",
+      "value": "C"
+      }
+      ],
+      "title":"因事故导致严重的外部出血时，应采取下列(  )方法？",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"20",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"30",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"40",
+      "value": "C"
+      }
+      ],
+      "title":"重一点的烫伤应立即用冷水冲洗不少于(  )分钟。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"使骨折加重，脊髓神经受损",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"造成颈部损伤",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"病人感到不舒服",
+      "value": "C"
+      }
+      ],
+      "title":"搬运脊椎骨折病人严禁使用软担架的原因是(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"60～80",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"70～90",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"80～l00",
+      "value": "C"
+      }
+      ],
+      "title":"对电击所至的心搏骤停病人实施胸外心脏挤压法，应该每分钟挤压(  )次。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"马上把刺入物拔出",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用纸杯等物盖在眼睛上，保护眼睛不受碰触",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"送医院急救，途中尽量减少震动",
+      "value": "C"
+      }
+      ],
+      "title":"物体刺入眼睛中，以下措施中，(  )急救方法不正确。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"床板",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"软担架",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"门板等长宽木板",
+      "value": "C"
+      }
+      ],
+      "title":"搬运脊柱骨折患者，下列搬运工具中，(  )不宜使用。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"尽可能紧",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"尽可能松",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"松紧适当，以不影响血液流通为宜",
+      "value": "C"
+      }
+      ],
+      "title":"发生骨折后，应及时将断骨固定，固定时应保持(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"止血",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"减少细菌感染",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"止痛",
+      "value": "C"
+      }
+      ],
+      "title":"以下(  )方法不是伤口包扎的目的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"普通包扎法",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"指压包扎法",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"对破口处进行消毒",
+      "value": "C"
+      }
+      ],
+      "title":"毛细血管出血，应使用以下(  )进行止血。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"继续进行人工呼吸，且人工呼吸应与其自然呼吸的节律一致",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"继续进行人工呼吸，但人工呼吸应与其自然呼吸的节律相反",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"立即停止人工呼吸",
+      "value": "C"
+      }
+      ],
+      "title":"施行人工呼吸时，当患者出现极微弱的自然呼吸时，应(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"脉搏微弱",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"血压下降",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"尿量增多",
+      "value": "C"
+      }
+      ],
+      "title":"以下(  )不是休克病人可能出现的症状。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"触电后停止呼吸的",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"高处坠落后停止呼吸的",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"硫化氢中毒呼吸停止的",
+      "value": "C"
+      }
+      ],
+      "title":"以下(  )情况不宜采用口对口人工呼吸。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"心跳停止并有助骨骨折的",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"触电后心跳停止的",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"心肌梗塞病人",
+      "value": "C"
+      }
+      ],
+      "title":"下列(  )情况不宜采用胸外心脏按摩。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"保持原状",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用灭菌纱布趁胸腔内气体排出伤口时，迅速覆盖伤口，并包扎",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"对破口进行消毒",
+      "value": "C"
+      }
+      ],
+      "title":"对胸壁有破口、肺部漏气的开放性气胸，以下方法中，(  )急救方法是正确的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"快速奔跑呼救",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用手扑打火焰",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"就地打滚，压灭火焰",
+      "value": "C"
+      }
+      ],
+      "title":"当身上的衣服烧着后，以下灭火方法中，(  )做法是正确的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"可让其喝水",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"可让其喝葡萄糖溶液",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"可用水湿润其嘴",
+      "value": "C"
+      }
+      ],
+      "title":"腹部创伤患者在医生诊治前，如其口渴应(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"毛细血管出血",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"静脉出血",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"动脉出血",
+      "value": "C"
+      }
+      ],
+      "title":"以下(  )出血最具危险性，如不及时处理将造成生命危险。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"马上用水冲洗",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"去医院",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"用干净布或卫生纸将硫酸粘下，并迅速用大量凉水冲洗皮肤",
+      "value": "C"
+      }
+      ],
+      "title":"浓硫酸洒在皮肤上，应该采用下述(  )方法。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"点眼药膏",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"立即开大眼睑，用清水冲洗眼睛",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"马上到医院看急诊",
+      "value": "C"
+      }
+      ],
+      "title":"眼睛被消毒液灼伤后，首先采取的正确方法是（）。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"点眼药膏",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"立即开大眼睑，用清水冲洗眼睛",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"马上到医院看急诊",
+      "value": "C"
+      }
+      ],
+      "title":"眼睛被消毒液灼伤后，首先采取的正确方法是(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"114",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"122",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"120",
+      "value": "C"
+      }
+      ],
+      "title":"全国通用的医疗急救电话为(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"迅速打开门窗通风，并将病人送到新鲜空气环境",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"在现场拨打电话求救",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"在现场马上给伤员做人工呼吸",
+      "value": "C"
+      }
+      ],
+      "title":"发现煤气中毒人员，采取以下行动中，(  )急救方法是正确的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"用手揉眼，把异物揉出来",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"反复眨眼，用眼泪将异物冲出来",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"用清水冲洗眼睛",
+      "value": "C"
+      }
+      ],
+      "title":"当有异物进入眼内，采用以下方法中，(  )不正确。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"尽量减少不必要的活动",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"给伤者服止痛片止痛",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"运送途中应把伤者的头转向一侧，便于清除呕吐物",
+      "value": "C"
+      }
+      ],
+      "title":"头部发生创伤的人员，在接受医生检查前，采取下列急救措施中，(  )是不正确的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"用水清洗断指后，与伤者一同送往医院",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用纱布包好，放入清洁的塑料袋中，并将其放入低温环境中，与伤者一同送往医院",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"把断指放入盐水中，与伤者一同送往医院",
+      "value": "C"
+      }
+      ],
+      "title":"发生手指切断事故后，对断指处理下列方法中，(  )是正确的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"快速送往医院救治",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"用毛巾等物将异物固定住，不让其乱动",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"马上拔出，进行止血",
+      "value": "C"
+      }
+      ],
+      "title":"有异物刺人头部或胸部时，以下(  )急救方法不正确。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"以最快的速度用冷水冲洗烧伤部位",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"立即用嘴吹灼伤部位",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"包扎后去医院诊治",
+      "value": "C"
+      }
+      ],
+      "title":"当被烧伤时，正确的急救方法应该是(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"呼叫救护人员",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"切断电源或使伤者脱离电源",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"进行人工呼吸",
+      "value": "C"
+      }
+      ],
+      "title":"发现人员触电，首先应采取的措施是(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"随意搬抬伤员",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"两人或多人抬伤员",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"首先固定伤者颈部，由4～5人同时平抬起伤者，使伤者脊椎姿势固定不动",
+      "value": "C"
+      }
+      ],
+      "title":"搬运交通事故伤员，(  )是正确的。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"铁丝",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"领带",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"毛巾",
+      "value": "C"
+      }
+      ],
+      "title":"以下物品中(  )不能用作止血带。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "C",
+      "options": [
+      {
+      "checked": false,
+      "name":"在患者耳边呼叫",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"轻轻拍打患者肩部",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"用力敲打患者头部",
+      "value": "C"
+      }
+      ],
+      "title":"在下列确认患者有无意识的方法中，不宜采用的是(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "A",
+      "options": [
+      {
+      "checked": false,
+      "name":"观察伤者有无意识",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"对出血部位进行包扎",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"进行心脏按摩",
+      "value": "C"
+      }
+      ],
+      "title":"对受伤人员进行急救的第一步应该是(  )。",
+      "url":"",
+      "help":""
+      },
+      {
+      "answer": "B",
+      "options": [
+      {
+      "checked": false,
+      "name":"感冒",
+      "value": "A"
+      },
+      {
+      "checked": false,
+      "name":"重症中暑",
+      "value": "B"
+      },
+      {
+      "checked": false,
+      "name":"中毒",
+      "value": "C"
+      }
+      ],
+      "title":"在高温场所，作业人员出现体温在39℃以上，突然昏倒，皮肤干热、无汗等症状，应该判定其为(  )。",
+      "url":"",
+      "help":""
+      }
+      
+      
+      
+  ]
+  
+}

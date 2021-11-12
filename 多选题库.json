@@ -1,0 +1,145 @@
+{
+  "_id": "SC",
+  "question": [
+    {
+      "answer": "ABC",
+      "options": [
+        {
+          "name": "1/4",
+          "value": "A",
+          "checked": false
+        },
+        {
+          "checked": false,
+          "name": "1/2",
+          "value": "B"
+        },
+        {
+          "name": "1/3",
+          "value": "C",
+          "checked": false
+        },
+        {
+          "name": " 2/5",
+          "value": "D",
+          "checked": false
+        }
+      ],
+      "title": "砂轮片的有效半径磨损到原半径的（）时必须更换。",
+      "url": "",
+      "help": "暂无"
+    },
+    {
+      "answer": "BC",
+      "options": [
+        {
+          "name": "物体打击",
+          "value": "A",
+          "checked": false
+        },
+        {
+          "checked": false,
+          "name": "电击",
+          "value": "B"
+        },
+        {
+          "name": "粉尘",
+          "value": "C",
+          "checked": false
+        },
+        {
+          "name": " 爆炸",
+          "value": "D",
+          "checked": false
+        }
+      ],
+      "title": "不属于机械危险因素的有（）",
+      "url": "",
+      "help": "暂无"
+    },
+    {
+      "answer": "AD",
+      "options": [
+        {
+          "name": "超载安全装置",
+          "value": "A",
+          "checked": false
+        },
+        {
+          "checked": false,
+          "name": "越位安全装置",
+          "value": "B"
+        },
+        {
+          "name": "超压安全装置",
+          "value": "C",
+          "checked": false
+        },
+        {
+          "name": "超重安全装置",
+          "value": "D",
+          "checked": false
+        }
+      ],
+      "title": "下列哪项不是超限保险装置（）",
+      "url": "",
+      "help": "暂无"
+    },
+    {
+      "answer": "CD",
+      "options": [
+        {
+          "name": "隔离防护装置 ",
+          "value": "A",
+          "checked": false
+        },
+        {
+          "checked": false,
+          "name": "联锁防护装置 ",
+          "value": "B"
+        },
+        {
+          "name": "超限保险装置",
+          "value": "C",
+          "checked": false
+        },
+        {
+          "name": "光电式安全防护装置",
+          "value": "D",
+          "checked": false
+        }
+      ],
+      "title": "下列哪项不是安全保护装置()",
+      "url": "",
+      "help": "暂无"
+    },
+    {
+      "answer": "ABD",
+      "options": [
+        {
+          "name": "钢丝绳的断丝数量增加，或断丝局部集中，钢丝绳应报废。",
+          "value": "A",
+          "checked": false
+        },
+        {
+          "checked": false,
+          "name": "如过出现整根绳股断裂，钢丝绳应报废。",
+          "value": "B"
+        },
+        {
+          "name": "当钢丝绳的纤维芯损坏或钢芯断裂，钢丝绳应报废",
+          "value": "C",
+          "checked": false
+        },
+        {
+          "name": " 当钢丝绳的直径相对于公称直径减少20%，钢丝绳应报废。",
+          "value": "D",
+          "checked": false
+        }
+      ],
+      "title": "钢丝绳的报废标准：()",
+      "url": "",
+      "help": "暂无"
+    }
+  ]
+}

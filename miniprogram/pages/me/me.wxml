@@ -1,0 +1,53 @@
+<cu-custom bgColor="bg-bg-gradual-green" isBack="{{false}}">
+  <view slot="content">个人中心</view>
+</cu-custom>
+
+<!-- 个人信息 -->
+<!-- <view class="flex solid-bottom padding align-center bg-white margin rounds" bindtap="goAbout"></view> -->
+    <view class="flex padding justify-center margin-top-xl">
+    <view class="cu-avatar round lg" style="background-image:url({{avatarUrl}});">
+      <view class="cu-tag badge {{userInfo.gender%2==0?'cuIcon-female bg-pink':'cuIcon-male bg-blue'}}">
+      </view>
+    </view>
+  </view>
+
+  <view class="flex justify-center padding-bottom-xl">
+    <view class="cu-capsule radius padding-right">
+      <view class="cu-tag bg-red">
+        <text>姓名</text>
+      </view>
+      <view class="cu-tag line-red">
+        {{userName}}
+      </view>
+    </view>
+
+    <view class="cu-capsule radius">
+      <view class="cu-tag bg-blue">
+        <text>班级</text>
+      </view>
+      <view class="cu-tag line-blue">
+        {{userClass}}
+      </view>
+    </view>
+  </view>
+
+<!-- </view> -->
+
+<view class="cu-list menu card-menu margin-top-lg  radius">
+
+  <view class='cu-item animation-slide-left' style="animation-delay: 0.5s;">
+    <view class='content margin-left-xl'>
+      <text class='cuIcon-formfill text-green'></text>
+      <text class='text-gray text-xl'>测试成绩</text>
+      <text class='text-gray text-xl margin-left-lg'>{{score}}分</text>
+    </view>
+  </view>
+
+  <view class='cu-item animation-slide-left' style="animation-delay: 0.5s;">
+    <view class='content margin-left-xl' bindtap="feedback">
+      <text class="cuIcon-writefill text-cyan"></text>
+      <text class='text-gray text-xl'>意见反馈</text>
+    </view>
+  </view>
+
+</view>

@@ -1,0 +1,29 @@
+<cu-custom bgColor="bg-yellow" isBack="{{false}}">
+</cu-custom>
+
+<view class='bg-yellow box'>
+  <view style="animation-delay: 1.5s;" class='animation-slide-left'>
+    <button class="cu-bar bg-white padding-xl margin-xl btn-box" bindgetuserinfo='userLogin' open-type='getUserInfo' wx:if='{{!avatarUrl}}'>
+      <view class="cu-avatar round xl" style="background-image:url({{avatarUrl}});">
+        <view class="cu-tag badge {{userInfo.gender%2==0?'cuIcon-female bg-pink':'cuIcon-male bg-blue'}}"></view>
+      </view>
+      <text class="txt text-xl">点击授权</text>
+      <view class="arrow"></view>
+    </button>
+
+    <button class="cu-bar bg-white padding-xl margin-xl btn-box" bindtap="goIndex" wx:else>
+      <view class="cu-avatar round xl" style="background-image:url({{avatarUrl}});">
+        <view class="cu-tag badge {{userInfo.gender%2==0?'cuIcon-female bg-pink':'cuIcon-male bg-blue'}}"></view>
+      </view>
+      <text class="txt text-xl">{{userInfo.nickName}}</text>
+      <view class="arrow"></view>
+    </button>
+  </view>
+  <view style="animation-delay: 0.5s;" class='animation-slide-right'>
+    <view class="shadow cu-bar bg-white padding-xl margin-xl other-box radius">
+      <view class='content'>
+            <view>实验室安全答题助手</view>
+        </view>
+    </view>
+  </view>
+</view>

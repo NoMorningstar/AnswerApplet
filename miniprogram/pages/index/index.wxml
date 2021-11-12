@@ -1,0 +1,23 @@
+<cu-custom bgColor="bg-gradual-pink" isBack='{{false}}'>
+  <view slot="content">粤工程</view>
+</cu-custom>
+
+<view class="container">
+        <!--轮播图-->
+      <swiper class="home-swiper" indicator-dots="true" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+        <block wx:for-items="{{lunboData}}">
+          <swiper-item>
+            <image src="{{item.imgurl}}" class="slide-image" />
+          </swiper-item>
+        </block>
+      </swiper>
+    </view>
+
+ <view class='nav-list margin-top-xl'>
+    <view class="nav-li bg-{{item.color}}" wx:for="{{elements}}" wx:key id="{{index}}" bindtap="to">
+      <view class="nav-title margin">{{item.title}}</view>
+      <view class="nav-name margin">{{item.name}}</view>
+      <text class='cuIcon-{{item.icon}} margin'></text>
+    </view>
+  </view>
+ 
